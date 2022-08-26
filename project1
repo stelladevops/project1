@@ -3,3 +3,4 @@ read name
 echo "please enter your password"
 read -s password
 echo "welcome to the project1 application"
+God is good
